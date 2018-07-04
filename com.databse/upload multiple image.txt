@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/14721310/how-to-display-multiple-images-which-is-stored-in-local-drive
+
+
+// retrive image using api
+http://www.dotnetcurry.com/aspnet/1120/aspnet-webapi-binary-contents-images
